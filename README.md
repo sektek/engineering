@@ -21,6 +21,9 @@ record is a single Markdown file in [`decisions/`](decisions/).
   TypeScript `private` and `protected` over JavaScript `#` hard-private
   fields.
 
+- [0002](decisions/0002-favor-small-composable-components.md): favor small, composable components with focused
+  responsibilities.
+
 ## Read a decision
 
 Each EDR starts with front matter that gives its `title`, `status`, `date`, and
