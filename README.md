@@ -24,6 +24,9 @@ record is a single Markdown file in [`decisions/`](decisions/).
 - [0002](decisions/0002-favor-small-composable-components.md): favor small, composable components with focused
   responsibilities.
 
+- [0003](decisions/0003-require-end-to-end-integration-tests.md): require end-to-end
+  integration tests for application flows.
+
 ## Read a decision
 
 Each EDR starts with front matter that gives its `title`, `status`, `date`, and
@@ -63,5 +66,6 @@ supersedes it, and say which record it replaces.
 Follow the technical-writing skill for style and language. In addition:
 
 - Wrap prose at 80 columns.
+- Reference other EDRs using inline relative Markdown links.
 - Use exact identifiers, flags, and package names from the source.
 - Keep examples short and limited to the behavior the decision describes.
