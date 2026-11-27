@@ -35,6 +35,9 @@ record is a single Markdown file in [`decisions/`](decisions/).
 
 - [0006](decisions/0006-use-conventional-commits.md): use Conventional Commits.
 
+- [0007](decisions/0007-favor-small-focused-pull-requests.md): favor small, focused
+  pull requests.
+
 ## Read a decision
 
 Each EDR starts with front matter that gives its `title`, `status`, `date`, and
