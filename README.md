@@ -33,6 +33,8 @@ record is a single Markdown file in [`decisions/`](decisions/).
 - [0005](decisions/0005-favor-minimal-component-interfaces.md): favor minimal,
   responsibility-focused component interfaces.
 
+- [0006](decisions/0006-use-conventional-commits.md): use Conventional Commits.
+
 ## Read a decision
 
 Each EDR starts with front matter that gives its `title`, `status`, `date`, and
