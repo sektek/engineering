@@ -27,6 +27,9 @@ record is a single Markdown file in [`decisions/`](decisions/).
 - [0003](decisions/0003-require-end-to-end-integration-tests.md): require end-to-end
   integration tests for application flows.
 
+- [0004](decisions/0004-limit-inline-functions.md): limit inline functions to
+  single expressions.
+
 ## Read a decision
 
 Each EDR starts with front matter that gives its `title`, `status`, `date`, and
