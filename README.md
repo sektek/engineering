@@ -38,6 +38,9 @@ record is a single Markdown file in [`decisions/`](decisions/).
 - [0007](decisions/0007-favor-small-focused-pull-requests.md): favor small, focused
   pull requests.
 
+- [0008](decisions/0008-align-package-versioning-with-application-boundaries.md): align package
+  versioning with application boundaries.
+
 ## Read a decision
 
 Each EDR starts with front matter that gives its `title`, `status`, `date`, and
