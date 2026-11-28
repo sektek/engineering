@@ -7,6 +7,16 @@ project doesn't have to restate them.
 Use it to find out why we build things the way we do, and to record a new
 decision that affects several repositories.
 
+## Scope and authority
+
+The engineering decisions in this repository apply to SEKTEK projects.
+Applicable organizational, team, or project decisions may take precedence over
+these decisions. Where they conflict, those decisions are authoritative within
+their respective scope.
+
+A decision that takes precedence within a specific scope does not supersede
+the EDR for other projects.
+
 ## Contents
 
 - [`decisions/`](decisions/): engineering decision records (EDRs).
