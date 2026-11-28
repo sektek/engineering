@@ -9,9 +9,9 @@ decision that affects several repositories.
 
 ## Scope and authority
 
-The engineering decisions in this repository apply to SEKTEK projects.
-Applicable organizational, team, or project decisions may take precedence over
-these decisions. Where they conflict, those decisions are authoritative within
+The engineering decisions in this repository apply to SEKTEK projects. Where
+applicable organizational, team, or project decisions differ from those
+documented here, those decisions take precedence and are authoritative within
 their respective scope.
 
 A decision that takes precedence within a specific scope does not supersede
